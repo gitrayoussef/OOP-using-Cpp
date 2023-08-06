@@ -1,0 +1,3 @@
+D:/Rana Youssef/DATA/Root/00-Web development/ITI/ITI-SOFTWARE FUNDEMENTALS/OOP Using C++/Lab10/cmake-build-debug/CMakeFiles/Lab10.dir
+D:/Rana Youssef/DATA/Root/00-Web development/ITI/ITI-SOFTWARE FUNDEMENTALS/OOP Using C++/Lab10/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Rana Youssef/DATA/Root/00-Web development/ITI/ITI-SOFTWARE FUNDEMENTALS/OOP Using C++/Lab10/cmake-build-debug/CMakeFiles/rebuild_cache.dir

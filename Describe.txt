@@ -1,0 +1,26 @@
+Lab1 : Spiliting Fuction in seperate files and using linear search in an array and namespaces scopes
+
+Lab2 : Bubble sort algorithm
+
+Lab3 : Streaming Operator overloading and equality oveerloading
+
+Lab4: writing to text file and Reading From Text File
+
+Lab5: Handling Input Errors in Input Stream
+
+Lab7,8 : The same but 8 have no string type 
+
+Lab9: Lecture example on complex
+Lab10: Lexture example on stack
+Lab11: Define a student class has id , pointer to array of character dynamically allocated at the heap , ang arry of integers grades
+
+
+
+
+
+the udemy bootcamp
+iti
+mosh docker
+mosh c++ (beginner - adanvanced - medieum)
+zero to mystry data structure
+alx africa

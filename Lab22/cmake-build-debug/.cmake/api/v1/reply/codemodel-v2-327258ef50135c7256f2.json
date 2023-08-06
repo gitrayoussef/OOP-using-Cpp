@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Lab22",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab22::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab22-Debug-55f4cb9c8893634e00a8.json",
+					"name" : "Lab22",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Rana Youssef/DATA/Root/00-Web development/ITI/ITI-SOFTWARE FUNDEMENTALS/OOP Using C++/Lab22/cmake-build-debug",
+		"source" : "D:/Rana Youssef/DATA/Root/00-Web development/ITI/ITI-SOFTWARE FUNDEMENTALS/OOP Using C++/Lab22"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
